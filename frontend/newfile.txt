@@ -1,0 +1,18 @@
+I have a wonder full gift for you
+
+
+Terminal OS Desktop
+
+Portfolio as a fake operating system — draggable windows, terminal commands (`whoami`, `ls projects`), boot sequence, taskbar. Visitors 'use' your OS to explore.
+
+Living 3D Workspace
+
+Interactive 3D scene (React Three Fiber) of a developer's desk — click the monitor for projects, notebook for about, phone for contact. Cinematic camera moves.
+
+Code-Editor Portfolio
+
+Entire site styled as VS Code — file tree sidebar with projects.tsx, about.md, contact.json. Tabs, syntax highlighting, command palette (Cmd+K) navigation.
+
+Generative Canvas
+
+Infinite zoomable/pannable canvas (like Figma/Miro) where projects, skills, and bio are spatial cards. Minimap, zoom-to-section, particle trails.

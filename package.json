@@ -1,0 +1,23 @@
+{
+  "name": "learn-backend",
+  "version": "1.0.0",
+  "description": "We are learning Backend development from sheryans codding school",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadijazktk/Mastering-Backend-.git"
+  },
+  "author": "Ahmad Ijaz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadijazktk/Mastering-Backend-/issues"
+  },
+  "homepage": "https://github.com/ahmadijazktk/Mastering-Backend-#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1"
+  }
+}
